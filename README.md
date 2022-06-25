@@ -21,7 +21,8 @@ creating a new knowledge base for agent, with a function called propKB().
 
 ## STEP 4:
 Mentioning the labels in the wumpus game cell for location in the function of expressions.
-
+<br><br>
+ <br>
 ## STEP 5:
 Using wumpus_kb.tell() to define the environment of the wumpus game.
 
@@ -98,13 +99,19 @@ wumpus_kb.tell(B34 | '<=>' | ((P33| P44)))
 wumpus_kb.clauses
 wumpus_kb.ask_if_true(~P41)
 ```
-
+<br><br><br><br>
+ <br><br><br>
+    <br><br><br><br>
 ## OUTPUT:
 ## Checking in algorithm:
 ![21](https://user-images.githubusercontent.com/75235090/175758834-b2efad2d-195c-4ca9-93c7-23117c4baf08.png)
+    
 ![22](https://user-images.githubusercontent.com/75235090/175758841-854bdea3-ab4f-4730-881c-4a787ad4ffc5.png)
+    
 ## Propositional logic:
 ![23](https://user-images.githubusercontent.com/75235090/175758880-3a98ba74-2657-4bc9-9918-d50cf79c2fd2.png)
+    <br><br><br>
+    <br><br><br><br><br>
 ## Starting of the game:
 ![24](https://user-images.githubusercontent.com/75235090/175758904-9e04ae05-4c41-45d6-9587-c16d28775b64.png)
 ## Mid of the game:
